@@ -4967,11 +4967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ctw00367\\source\\repos\\TestORM\\TestORM\\TestORM.csproj",
+      "projectUniqueName": "C:\\Work\\Repo\\TestOrm\\TestORM\\TestORM.csproj",
       "projectName": "TestORM",
-      "projectPath": "C:\\Users\\ctw00367\\source\\repos\\TestORM\\TestORM\\TestORM.csproj",
+      "projectPath": "C:\\Work\\Repo\\TestOrm\\TestORM\\TestORM.csproj",
       "packagesPath": "C:\\Users\\ctw00367\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ctw00367\\source\\repos\\TestORM\\TestORM\\obj\\",
+      "outputPath": "C:\\Work\\Repo\\TestOrm\\TestORM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ctw00367\\source\\repos\\TestORM\\IdLookUp\\IdLookUp.csproj",
+      "projectUniqueName": "C:\\Work\\Repo\\TestOrm\\IdLookUp\\IdLookUp.csproj",
       "projectName": "IdLookUp",
-      "projectPath": "C:\\Users\\ctw00367\\source\\repos\\TestORM\\IdLookUp\\IdLookUp.csproj",
+      "projectPath": "C:\\Work\\Repo\\TestOrm\\IdLookUp\\IdLookUp.csproj",
       "packagesPath": "C:\\Users\\ctw00367\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ctw00367\\source\\repos\\TestORM\\IdLookUp\\obj\\",
+      "outputPath": "C:\\Work\\Repo\\TestOrm\\IdLookUp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
