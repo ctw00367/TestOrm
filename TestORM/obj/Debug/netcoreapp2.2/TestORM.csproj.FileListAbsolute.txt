@@ -1,0 +1,10 @@
+C:\Users\ctw00367\source\repos\TestORM\TestORM\bin\Debug\netcoreapp2.2\TestORM.deps.json
+C:\Users\ctw00367\source\repos\TestORM\TestORM\bin\Debug\netcoreapp2.2\TestORM.runtimeconfig.json
+C:\Users\ctw00367\source\repos\TestORM\TestORM\bin\Debug\netcoreapp2.2\TestORM.runtimeconfig.dev.json
+C:\Users\ctw00367\source\repos\TestORM\TestORM\bin\Debug\netcoreapp2.2\TestORM.dll
+C:\Users\ctw00367\source\repos\TestORM\TestORM\obj\Debug\netcoreapp2.2\TestORM.csproj.CoreCompileInputs.cache
+C:\Users\ctw00367\source\repos\TestORM\TestORM\obj\Debug\netcoreapp2.2\TestORM.AssemblyInfoInputs.cache
+C:\Users\ctw00367\source\repos\TestORM\TestORM\obj\Debug\netcoreapp2.2\TestORM.AssemblyInfo.cs
+C:\Users\ctw00367\source\repos\TestORM\TestORM\bin\Debug\netcoreapp2.2\TestORM.pdb
+C:\Users\ctw00367\source\repos\TestORM\TestORM\obj\Debug\netcoreapp2.2\TestORM.dll
+C:\Users\ctw00367\source\repos\TestORM\TestORM\obj\Debug\netcoreapp2.2\TestORM.pdb

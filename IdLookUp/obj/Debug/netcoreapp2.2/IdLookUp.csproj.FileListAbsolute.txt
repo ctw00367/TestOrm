@@ -1,0 +1,9 @@
+C:\Users\ctw00367\source\repos\TestORM\IdLookUp\bin\Debug\netcoreapp2.2\IdLookUp.deps.json
+C:\Users\ctw00367\source\repos\TestORM\IdLookUp\bin\Debug\netcoreapp2.2\IdLookUp.dll
+C:\Users\ctw00367\source\repos\TestORM\IdLookUp\bin\Debug\netcoreapp2.2\IdLookUp.pdb
+C:\Users\ctw00367\source\repos\TestORM\IdLookUp\obj\Debug\netcoreapp2.2\IdLookUp.csprojAssemblyReference.cache
+C:\Users\ctw00367\source\repos\TestORM\IdLookUp\obj\Debug\netcoreapp2.2\IdLookUp.csproj.CoreCompileInputs.cache
+C:\Users\ctw00367\source\repos\TestORM\IdLookUp\obj\Debug\netcoreapp2.2\IdLookUp.AssemblyInfoInputs.cache
+C:\Users\ctw00367\source\repos\TestORM\IdLookUp\obj\Debug\netcoreapp2.2\IdLookUp.AssemblyInfo.cs
+C:\Users\ctw00367\source\repos\TestORM\IdLookUp\obj\Debug\netcoreapp2.2\IdLookUp.dll
+C:\Users\ctw00367\source\repos\TestORM\IdLookUp\obj\Debug\netcoreapp2.2\IdLookUp.pdb
